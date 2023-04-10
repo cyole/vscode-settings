@@ -162,6 +162,7 @@
     "unocss",
     "unplugin",
     "vite",
+    "Vitesse",
     "vuedraggable",
     "vuetify",
     "vueuse",
@@ -226,6 +227,7 @@
   "svg.preview.mode": "svg",
   "volar.autoCompleteRefs": false,
   "volar.completion.preferredTagNameCase": "pascal",
+  "vite.autoStart": false,
   "windicss.enableCodeFolding": false,  
 
   // File Nesting
