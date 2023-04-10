@@ -18,7 +18,6 @@
   "editor.inlineSuggest.enabled": true,
   "editor.lineNumbers": "interval",
   "editor.multiCursorModifier": "ctrlCmd",
-  "editor.renderWhitespace": "boundary",
   "editor.suggestSelection": "first",
   "editor.tabSize": 2,
   "editor.unicodeHighlight.invisibleCharacters": false,
